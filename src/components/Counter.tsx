@@ -6,6 +6,8 @@ const QUOTES = [
   { text: "The secret of getting ahead is getting started.", author: "Mark Twain" },
   { text: "I love history.", author: "Chase Idleman" },
   { text: "I like my own posts on LinkedIn.", author: "Lauren Wright" },
+  { text: "I love Claude.", author: "Matt Vanderpool" },
+  { text: "I love lamp.", author: "Brick" },
 ];
 
 export default function Counter() {
